@@ -1,7 +1,7 @@
 const person = {
-    name: 'David'
+    name: 'David',
     age: 25,
-    profession: 'Developer'
+    profession: 'Developer',
     salary: 20000
 
 }
