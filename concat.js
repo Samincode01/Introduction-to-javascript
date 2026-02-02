@@ -8,3 +8,5 @@ console.log(fullName);
 
 const fullName2 = firstname.concat(' ').concat(lastname)
 console.log(fullName2);
+
+console.log(lastname.includes('s'))
